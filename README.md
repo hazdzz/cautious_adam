@@ -1,7 +1,7 @@
-# CautiousAdam
+# Cautious-Adam
 
 ## About
-The PyTorch implementation of CautiousAdam.
+The PyTorch implementation of Cautious-Adam.
 
 ## Citation
 ```
